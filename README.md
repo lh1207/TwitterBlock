@@ -1,4 +1,4 @@
-# TwitterBlocker
+# TwitterBlock
 A website that ties into a ViolentMonkey script. I made this to prevent myself from accessing Twitter, a site I find to be degrading to my mental health.
 [https://twitterblock.tiiny.site](https://twitterblock.tiiny.site)
 
